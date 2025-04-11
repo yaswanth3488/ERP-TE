@@ -1,6 +1,5 @@
 Hospital Emergency Room Performance and Triage Efficiency
-![screenshot]([https://github.com/yaswanth3488/ERP-TE/blob/main/Screenshot%202025-04-11%20131059.png](https://github.com/yaswanth3488/ERP-TE/blob/main/Hospital%20Emergency.jpg))
-
+![emergency}(https://github.com/yaswanth3488/ERP-TE/blob/main/Hospital%20Emergency.jpg)
 
 🚑 Emergency Room Performance and Triage Efficiency
 📌 Project Overview
