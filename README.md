@@ -1,4 +1,3 @@
-# ERP-TE
 Hospital Emergency Room Performance and Triage Efficiency
 ![screenshot](https://github.com/yaswanth3488/ERP-TE/blob/main/Screenshot%202025-04-11%20131059.png)
 
