@@ -65,3 +65,9 @@ Introduce a fast-track line for non-urgent cases to reduce total ER burden
 Set a Triage Efficiency target and monitor % of critical cases treated under 15 mins
 
 Track Satisfaction Scores and correlate with wait time patterns
+
+
+
+
+Dashboard ~
+![image](https://github.com/yaswanth3488/ERP-TE/blob/main/Screenshot%202025-04-11%20131059.png)
