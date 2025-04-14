@@ -34,6 +34,11 @@ Satisfaction Score, Total ER Stay Time, and more
 🛠️ Dataset was custom generated to simulate realistic ER scenarios such as peak hours, severity-based delays, and patient outcomes.
 
 💡 Key Insights
+A triage efficiency rate of 0.23 means that 23% of the critical (Triage Level 1) cases were treated within the target time of 15 minutes.
+
+In simpler terms, for every 100 patients who were triaged as critical, only 23 of them received the necessary treatment within the first 15 minutes of being assessed.
+
+This indicates a potential area for improvement in the triage and treatment process for critical patients, as a significant majority (77%) are not meeting the desired efficiency target. It would be important to investigate the reasons behind this low efficiency rate.
 ⏳ Triage Level 1 (Critical) patients waited an average of 18 minutes; 65% treated within 15 mins.
 
 ⚠️ Non-Urgent patients waited 3x longer than Critical patients—indicating a need for alternate care pathways.
@@ -72,7 +77,7 @@ Track Satisfaction Scores and correlate with wait time patterns
 
 
 Dashboard ~
-![image](https://github.com/yaswanth3488/ERP-TE/blob/main/Screenshot%202025-04-11%20131059.png)
+![image](https://github.com/yaswanth3488/ERP-TE/blob/main/Screenshot%202025-04-14%20102705.png)
 
 
 
