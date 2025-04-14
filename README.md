@@ -1,9 +1,11 @@
-Hospital Emergency Room Performance and Triage Efficiency
+# Hospital Emergency Room Performance and Triage Efficiency
 ![emergency](https://github.com/yaswanth3488/ERP-TE/blob/main/Hospital%20Emergency.jpg)
 
 🚑 Emergency Room Performance and Triage Efficiency
 📌 Project Overview
 This project aims to analyze and improve Emergency Room (ER) performance and triage efficiency using a structured, real-world dataset. By focusing on patient flow, waiting times, triage response, and satisfaction levels, the analysis offers actionable insights that help hospital management make data-driven decisions to enhance patient care and operational efficiency.
+
+#[DOCUMENT LINK](https://github.com/yaswanth3488/ERP-TE/blob/main/CHECK%20OUT%20PDF-Emergency-Room.pdf)
 
 🎯 Objective
 Understand key performance indicators (KPIs) such as ER wait time, triage efficiency, doctor workload, and patient satisfaction
@@ -71,3 +73,8 @@ Track Satisfaction Scores and correlate with wait time patterns
 
 Dashboard ~
 ![image](https://github.com/yaswanth3488/ERP-TE/blob/main/Screenshot%202025-04-11%20131059.png)
+
+
+
+
+#[CONNECT WITH ME](https://www.linkedin.com/in/yaswanth3488/)
