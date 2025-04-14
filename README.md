@@ -33,7 +33,7 @@ Satisfaction Score, Total ER Stay Time, and more
 
 🛠️ Dataset was custom generated to simulate realistic ER scenarios such as peak hours, severity-based delays, and patient outcomes.
 
-💡 Key Insights
+💡 Key Insights : 
 A triage efficiency rate of 0.23 means that 23% of the critical (Triage Level 1) cases were treated within the target time of 15 minutes.
 
 In simpler terms, for every 100 patients who were triaged as critical, only 23 of them received the necessary treatment within the first 15 minutes of being assessed.
